@@ -107,6 +107,7 @@
 				<artifactId>mybatis-paginator</artifactId>
 				<version>${mybatis.paginator.version}</version>
 			</dependency>
+			<!-- 分頁 -->
 			<dependency>
 				<groupId>com.github.pagehelper</groupId>
 				<artifactId>pagehelper</artifactId>
